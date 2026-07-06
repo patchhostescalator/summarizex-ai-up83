@@ -1,4 +1,4 @@
-# 
+# Professionnel SummarizeX package. Téléchargez et installez avec architecture évolutive et modèles préconfigurés — rapide, sécurisé et facile à utiliser.
 
 
 
